@@ -1,0 +1,31 @@
+.header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.header > .row {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header .header-content {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.header .logo {
+    margin-right: auto;
+}
+
+.main-nav {
+    display: flex;
+    gap: 2em;
+    font-size: 20px;
+}
+.main-nav > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header .hamburger {
+    padding: 0.5em;
+    font-size: 20px;
+}

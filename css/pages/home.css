@@ -1,0 +1,61 @@
+/* base */
+@import '../base/base.css';
+@import '../base/layout.css';
+/* 3rd-party */
+@import '../3rd-party/font-awesome.min.css';
+/* components */
+@import '../components/button.css';
+@import '../components/gallery.css';
+@import '../components/header.css';
+@import '../components/service-features.css';
+
+/* CUSTOM STYLE BELOW THIS COMMENT LINE */
+
+body {
+    background: linear-gradient(
+        90deg,
+        #1f1f35 0%,
+        #1f1f35 59%,
+        #4b3ee4 59%,
+        #4b3ee4 100%
+    );
+}
+
+/* header: start */
+/* header: end */
+
+/* hero: start */
+.hero p {
+    color: #ccc;
+}
+/* hero: end */
+
+/* features: start */
+/* features: end */
+
+/* clients: start */
+/* clients: end */
+
+/* beautiful: start */
+/* beautiful: end */
+
+/* devices: start */
+/* devices: end */
+
+/* testimonials: start */
+/* testimonials: end */
+
+/* achievements: start */
+/* achievements: end */
+
+/* pricing: start */
+/* pricing: end */
+
+/* faq: start */
+/* faq: end */
+
+/* cta: start */
+/* cta: end */
+
+/* footer: start */
+/* footer: end */
